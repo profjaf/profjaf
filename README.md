@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @profjaf
-- 👀 I’m interested in c++ and matlab coding
+- 👀 I’m interested in c++, VB, VC, python and matlab coding
 - 🌱 I’m currently develpoing some software and codes for scientific research and indistrial usage
 Fields of research:
 1. Digital signal processing
